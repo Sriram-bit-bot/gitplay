@@ -1,2 +1,3 @@
 this is another testfile
 this is insane
+this is awesome
